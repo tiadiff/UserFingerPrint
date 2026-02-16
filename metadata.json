@@ -1,0 +1,8 @@
+{
+  "name": "PrivacyPrint Inspector",
+  "description": "An educational tool to visualize and understand advanced browser fingerprinting techniques like Canvas, WebGL, and AudioContext analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
